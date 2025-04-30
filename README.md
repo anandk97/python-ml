@@ -1,2 +1,2 @@
-# engr-521
-Repository consisting of notebooks I developed for ENGR 521 : ML for Engineering Project at University of Washington
+# python-ml
+Repository consisting of my approaches to learning and mastering new Machine Learning concepts in Python
